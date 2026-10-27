@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.2](https://github.com/cubrid-lab/sqlalchemy-cubrid/compare/v1.12.1...v1.12.2) (2026-10-27)
+
+
+### Documentation
+
+* **readme:** repin the brand icon to the transparent role marks ([#1090](https://github.com/cubrid-lab/sqlalchemy-cubrid/issues/1090)) ([b19b1f7](https://github.com/cubrid-lab/sqlalchemy-cubrid/commit/b19b1f777be6171a08adfbbf4065d9be2fb96a42))
+
 ## [1.12.1](https://github.com/cubrid-lab/sqlalchemy-cubrid/compare/v1.12.0...v1.12.1) (2026-10-27)
 
 
